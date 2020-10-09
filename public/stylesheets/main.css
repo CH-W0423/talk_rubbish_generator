@@ -1,0 +1,26 @@
+.img-wrapper {
+  height: 80%;
+}
+
+.card-img-top {
+  height: 100%;
+  opacity: 0.8;
+}
+
+.card-body {
+  background: #decdbe;
+  opacity: 0.9;
+}
+
+.form-check-label {
+  padding: 0 20px 0 10px;
+}
+
+#talk-Rubbish {
+  border: 1px solid #a0a0a1;
+  border-radius: 5px;
+  background: #decdbe;
+  opacity: 0.9;
+  padding: 0 10px;
+  font-size: 1.4rem;
+}
